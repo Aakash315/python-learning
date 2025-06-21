@@ -1,0 +1,181 @@
+{
+    "aadarsh_8687": {
+        "name": "Aadarsh",
+        "favorite_movies": [
+            {
+                "title": "RRR",
+                "year": "2022",
+                "genre": "Action, Adventure, Drama",
+                "rating": "7.8/10",
+                "imdb_id": "tt8178634"
+            },
+            {
+                "title": "Dhoom 2",
+                "year": "2006",
+                "genre": "Action, Crime, Thriller",
+                "rating": "6.6",
+                "imdb_id": "tt0441048"
+            },
+            {
+                "title": "Housefull 2",
+                "year": "2012",
+                "genre": "Action, Comedy, Drama",
+                "rating": "5.4",
+                "imdb_id": "tt1980986"
+            },
+            {
+                "title": "Housefull",
+                "year": "2010",
+                "genre": "Comedy, Drama, Romance",
+                "rating": "5.6",
+                "imdb_id": "tt1573072"
+            },
+            {
+                "title": "Race 3",
+                "year": "2018",
+                "genre": "Action, Thriller",
+                "rating": "1.9",
+                "imdb_id": "tt7431594"
+            },
+            {
+                "title": "Action Jackson",
+                "year": "1988",
+                "genre": "Action, Comedy, Crime",
+                "rating": "5.6",
+                "imdb_id": "tt0094612",
+                "duration": "96 min"
+            },
+            {
+                "title": "Missing in Action 2: The Beginning",
+                "year": "1985",
+                "genre": "Action, Drama, Thriller",
+                "rating": "5.3",
+                "imdb_id": "tt0089604",
+                "duration": "100 min"
+            }
+        ],
+        "favorite_musics": [
+            {
+                "artist": "Coldplay",
+                "title": "Fix You",
+                "duration": "4:54",
+                "album": "X&Y",
+                "listeners": "2,242,478"
+            },
+            {
+                "artist": "Jasleen Royal",
+                "title": "Heeriye (feat. Arijit Singh)",
+                "duration": "3:14",
+                "album": "Heeriye (feat. Arijit Singh)",
+                "listeners": "40,908"
+            },
+            {
+                "artist": "Arijit Singh",
+                "title": "Zaalima",
+                "duration": "4:59",
+                "album": "Collection",
+                "listeners": "42,469"
+            }
+        ]
+    },
+    "aman_5076": {
+        "name": "aman",
+        "favorite_movies": [
+            {
+                "title": "Dhoom 2",
+                "year": "2006",
+                "genre": "Action, Crime, Thriller",
+                "rating": "6.6",
+                "imdb_id": "tt0441048"
+            },
+            {
+                "title": "Housefull 2",
+                "year": "2012",
+                "genre": "Action, Comedy, Drama",
+                "rating": "5.4",
+                "imdb_id": "tt1980986"
+            },
+            {
+                "title": "Race 3",
+                "year": "2018",
+                "genre": "Action, Thriller",
+                "rating": "1.9",
+                "imdb_id": "tt7431594"
+            }
+        ],
+        "favorite_musics": [
+            {
+                "artist": "Atif Aslam",
+                "title": "Pehli Dafa",
+                "duration": "4:58",
+                "album": "Atif Aslam",
+                "listeners": "27,535"
+            },
+            {
+                "artist": "Atif Aslam",
+                "title": "Pehli Dafa (From \"Pehli Dafa\")",
+                "duration": "4:58",
+                "album": "First Love Songs",
+                "listeners": "486"
+            },
+            {
+                "artist": "Vishal Mishra",
+                "title": "Pehli Dafa - From \"Ground Zero\"",
+                "duration": "N/A",
+                "album": "Unknown",
+                "listeners": "41"
+            }
+        ],
+        "recommendation_score": {
+            "tt0089604": 1,
+            "Vishal Mishra - Pehli Dafa - From \"Ground Zero\"": 1
+        }
+    },
+    "aakash_2677": {
+        "name": "aakash",
+        "favorite_movies": [
+            {
+                "title": "Half Girlfriend",
+                "year": "2017",
+                "genre": "Drama, Romance",
+                "rating": "4.6",
+                "imdb_id": "tt5474042"
+            },
+            {
+                "title": "Love Action Drama",
+                "year": "2019",
+                "genre": "Comedy, Romance",
+                "rating": "5.2",
+                "imdb_id": "tt7117870",
+                "duration": "146 min"
+            },
+            {
+                "title": "Dhoom 2",
+                "year": "2006",
+                "genre": "Action, Crime, Thriller",
+                "rating": "6.6",
+                "imdb_id": "tt0441048"
+            }
+        ],
+        "favorite_musics": [
+            {
+                "artist": "Kumar Sanu",
+                "title": "Aankh Hai Bhari Bhari (Duet Version) - From \"Tum Se Achcha Kaun Hai\"",
+                "duration": "7:15",
+                "album": "N/A",
+                "listeners": "770"
+            },
+            {
+                "artist": "Kumar Sanu & Alka Yagnik",
+                "title": "Aankh Hai Bhari Bhari (Duet Version) [From \"Tum Se Achcha Kaun Hai\"]",
+                "duration": "N/A",
+                "album": "Unknown",
+                "listeners": "Unknown"
+            }
+        ],
+        "recommendation_score": {
+            "tt7117870": 1,
+            "Kumar Sanu & Alka Yagnik - Aankh Hai Bhari Bhari (Duet Version) [From \"Tum Se Achcha Kaun Hai\"]": 1
+        }
+    }
+}
