@@ -1,0 +1,39 @@
+{
+    "goals": {
+        "weekly_calories": 2000,
+        "weekly_workouts": 4,
+        "monthly_distance": 50
+    },
+    "workouts": [
+        {
+            "id": 1,
+            "type": "Running",
+            "date": "20-06-2025",
+            "duration": 60,
+            "calories": 840.0,
+            "distance": 50.0,
+            "pace": 1.2,
+            "route": "road"
+        },
+        {
+            "id": 2,
+            "type": "Swimming",
+            "date": "21-06-2025",
+            "duration": 50,
+            "calories": 466.6666666666667,
+            "laps": 40,
+            "stroke_type": "freestyle",
+            "pool_length": 25
+        },
+        {
+            "id": 3,
+            "type": "Cycling",
+            "date": "21-06-2025",
+            "duration": 25,
+            "calories": 291.6666666666667,
+            "distance": 10.0,
+            "speed": 24,
+            "terrain": "road"
+        }
+    ]
+}
