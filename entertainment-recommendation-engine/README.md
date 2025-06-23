@@ -99,7 +99,7 @@ Music Lover: Add 15+ favorite songs
 Choose an option:
 
 
-**Option 1: Search Movies**
+#### **Option 1: Search Movies**
 
 === MOVIE SEARCH ===
 
@@ -125,7 +125,7 @@ Select movie to add to favorites (0 to go back) : 1
 ✅ "The Avengers (2012)" added to your favorites!
 
 
-**Option 2: Search Music**
+#### **Option 2: Search Music**
 
 === MUSIC SEARCH ===
 
@@ -151,7 +151,7 @@ Select song to add to favorites (0 to go back) : 2
 ✅ "Fix You" by Coldplay added to your favorites!
 
 
-**Option 3: Add to Favorites**
+#### **Option 3: Add to Favorites**
 
 === MANAGE FAVORITES ===
 
@@ -175,7 +175,7 @@ Choose option: 1
 5. Pulp Fiction (1994) - Crime, Drama
 
 
-**Option 4: Get Movie Recommendations**
+#### **Option 4: Get Movie Recommendations**
 
 === MOVIE RECOMMENDATIONS FOR YOU ===
 
@@ -209,7 +209,7 @@ Add any to favorites? (0 to go back): 1
 ✅ Added "Last Action Hero" to favorites!
 
 
-**Option 5: Get Music Recommendations**
+#### **Option 5: Get Music Recommendations**
 
 === MUSIC RECOMMENDATIONS FOR YOU ===
 
@@ -231,7 +231,7 @@ Add any to favorites? (0 to go back): 1
 ✅ Added "My Universe - SUGA's Remix" by Coldplay to favorites!
 
 
-**Option 6: View Profile**
+#### **Option 6: View Profile**
 
 === YOUR PROFILE ===
 
@@ -258,7 +258,7 @@ Music: Alternative Rock (45%), Pop Rock (25%), Rock (30%)
 3. SciFiAddict (61% similarity)
 
 
-**Option 7: Find Similar Users**
+#### **Option 7: Find Similar Users**
 
 === FIND SIMILAR USERS ===
 
@@ -288,7 +288,7 @@ Add any to your watchlist? (Enter numbers): 1,3
 ✅ Added 2 movies to your watchlist!
 
 
-**Option 8: Exit**
+#### **Option 8: Exit**
 
 === RECOMMENDATION ENGINE ===
 
