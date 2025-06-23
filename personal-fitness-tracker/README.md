@@ -13,11 +13,15 @@ A command-line based Personal Fitness Tracker written in Python. This applicatio
 
 ## 🛠️ Installation
 
-1. **Clone the repository**
-   ->    git clone https://github.com/Aakash315/python-learning.git
-   ->    cd  python-learning/personal-fitness-tracker
-2. **Run the program**
-   ->    project.py
+**1. Clone the repository**
+
+->    git clone https://github.com/Aakash315/python-learning.git
+
+->    cd  python-learning/personal-fitness-tracker
+
+**2. Run the program**
+
+->    project.py
 
 ## 📂 File Structure
 
